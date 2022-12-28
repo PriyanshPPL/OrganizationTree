@@ -1,0 +1,61 @@
+.department {
+    border-radius: 25px;
+    border: 1px solid gray;
+    height: 25px;
+    border: 2px solid #526bdb;
+}
+
+.pdng {
+    padding: 10px;
+}
+
+.mrgn {
+    margin: 20px;
+}
+
+.Org {
+    width: 25%;
+}
+
+.Designation {
+    width: 100%;
+    margin-left: 25rem;
+    margin-top: -2.7rem;
+}
+
+
+.desigs {
+    border-radius: 25px;
+    border: 1px solid gray;
+    border: 2px solid #526bdb;
+    height: 1.5rem;    
+}
+
+
+.hr{
+    padding-left: 7.1rem;
+    margin-top: -0.75rem;
+    margin-left: 19.0rem;
+    height: 1px;
+    text-align: center;
+    line-height: 0.1rem;
+    border-bottom: 2px solid #526bdb;
+}
+
+.hrr {
+    padding-left: 12.2rem;
+    margin-top: -0.75rem;
+    margin-left: 14.1rem;
+    height: 1px;
+    text-align: center;
+    line-height: 0.1rem;
+    border-bottom: 2px solid #526bdb;    
+}
+
+.number {
+    margin-left: -6.2rem;
+    background: #fff;
+    padding: 0 10px;
+    border-radius: 15%;
+    background-color: #526bdb;
+}
